@@ -11,7 +11,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TypedProject/ts-gphoto2-driver.git"
+    "url": "git+https://github.com/TypedProject/ts-gphoto2-driver.git"
   },
   "bugs": {
     "url": "https://github.com/TypedProject/ts-gphoto2-driver/issues"
@@ -73,8 +73,8 @@
     "typescript": "3.6.3"
   },
   "directories": {
+    "example": "examples",
     "lib": "lib",
-    "src": "src",
     "test": "test"
   },
   "release": {
